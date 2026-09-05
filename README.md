@@ -3,10 +3,10 @@ Aplicação web simples para criação, gerenciamento e conclusão de tarefas, d
 O Gerenciador de Tarefas é uma aplicação do tipo To-Do List desenvolvida para demonstrar conceitos básicos de desenvolvimento web e da utilização do framework Vue.js.
 
 A aplicação possui uma interface simples onde o usuário pode:
-- ➕ Adicionar novas tarefas;
-- ✅ Marcar tarefas como concluídas;
-- ❌ Remover tarefas;
-- 🔄 Atualizar a interface automaticamente conforme as tarefas são modificadas.
+- Adicionar novas tarefas;
+- Marcar tarefas como concluídas;
+- Remover tarefas;
+- Atualizar a interface automaticamente conforme as tarefas são modificadas.
 
 Os dados são mantidos apenas em memória enquanto a página estiver aberta. Portanto, ao atualizar ou fechar a página, as tarefas cadastradas são perdidas.
 
